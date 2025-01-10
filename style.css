@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Lexend+Tera:wght@100..900&family=Pacifico&family=Permanent+Marker&family=Rubik+Vinyl&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: darkslategray;
+    color: maroon;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+}
