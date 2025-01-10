@@ -15,7 +15,27 @@ h1 {
     font-size: 40px;
     background-color: darkslategray;
     color: maroon;
-    margin-top: 15px;
+    margin-top: 30px;
+    padding-block: 20px;
+}
+
+p {
+    margin-block: 25px;
+}
+
+button {
+    margin-left: 30px;
+    background-color:  rgb(165, 133, 51);
+    border: 2px solid rgb(0, 69, 180);
+    border-radius: 12px;
+    padding: 6px;
+    margin-inline: 150px;
+    margin-bottom: 20px;
+    color: bisque;
+    font-size: 30px;
+}
+button:hover {
+    color: rgba(255, 228, 196, 0.638);
 }
 
 .container {
